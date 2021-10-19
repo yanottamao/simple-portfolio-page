@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+.profile-picture {
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+  /* aspect-ratio: 1/1; */
+  width: 200px;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+.project-picture {
+  height: 300px;
+  width: auto;
+  /* width: 300px; */
+  object-fit: cover;
+}
+
+section {
+  padding-top: 5rem;
+}
