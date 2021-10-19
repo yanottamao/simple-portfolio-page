@@ -25,3 +25,6 @@ https://getwaves.io/
 
 Image Compress:
 https://squoosh.app/
+
+Gitignore generators:
+https://www.toptal.com/developers/gitignore
